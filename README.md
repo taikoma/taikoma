@@ -1,9 +1,9 @@
 # My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/mikkame)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/mikkame/posts.svg)](http://qiita.com/taikoma)
 # My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/mikkame)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/taikoma)
 # My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/mikkame)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/mikkame/followers.svg)](http://qiita.com/taikoma)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=taikoma&count_private=true&show_icons=true" />
 </a>
